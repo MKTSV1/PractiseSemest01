@@ -1,3 +1,5 @@
+package semestr1.practise02.justPractise;
+
 public class Class32 {
     public static void main(String[] args) {
         System.out.println("Периметр кімнати (м):");

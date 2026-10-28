@@ -1,3 +1,5 @@
+package semestr1.practise01;
+
 public class Class12 {
     public static void main(String[] args) {
         System.out.print("3... ");

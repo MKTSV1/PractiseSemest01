@@ -1,3 +1,5 @@
+package semestr1.practise01;
+
 public class Class25 {
     public static void main(String[] args) {
         System.out.println(67);

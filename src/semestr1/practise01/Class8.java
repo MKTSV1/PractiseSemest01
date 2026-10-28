@@ -1,3 +1,5 @@
+package semestr1.practise01;
+
 public class Class8 {
     public static void main(String[] args) {
         System.out.println(1);
